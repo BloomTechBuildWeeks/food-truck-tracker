@@ -1,3 +1,5 @@
+**Deployed Url** https://food-truck-trackr-api.herokuapp.com/
+
 ### Diner schema
 
     {
